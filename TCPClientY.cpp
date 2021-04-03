@@ -9,7 +9,7 @@
 #include <arpa/inet.h>
 #include <sys/time.h>
 
-#define PORT 4444
+#define PORT 12000
 
 int main()
 {
